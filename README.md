@@ -9,13 +9,13 @@ The MySql version includes a Setup() function within the class that automaticall
 The text file version doesn't require any special setup.
 
 Features (MySql Version):
--Set custom database and table
--Easy setup function
--Uses MySqli
+&bull;Set custom database and table
+&bull;Easy setup function
+&bull;Uses MySqli
 
 Features (Both Versions):
--Single class
--Set number of entrys to display
--Easily change date format
--Sample index page
--Simple, clean style using web-safe fonts
+&bull;Single class
+&bull;Set number of entrys to display
+&bull;Easily change date format
+&bull;Sample index page
+&bull;Simple, clean style using web-safe fonts
