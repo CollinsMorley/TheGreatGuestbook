@@ -1,7 +1,5 @@
-#The Great Guestbook
-===================
-
-###A pair of simple and clean guestbook classes, one using MySql and the other a text file.
+##The Great Guestbook
+**A pair of simple and clean guestbook classes, one using MySql and the other a text file.**
 
 ===================
 
@@ -19,3 +17,5 @@ The text file version doesn't require any special setup.
 * Easily change date format
 * Sample index page
 * Simple, clean style using web-safe fonts
+
+Check out my portfolio at: http://collinsmorley.com
