@@ -1,0 +1,109 @@
+html{
+	margin: 0;
+	padding: 0;
+}
+body{
+	margin: 0;
+	padding: 0;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.gb-error{
+	width: 35%;
+	height: 35px;
+	margin: 15px auto;
+	padding: 1em;
+	color: #F00;
+	background: #FCC;
+	border: 2px groove #FAA;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.gb-headding{
+	width: 65%;
+	height: 35px;
+	margin: 15px auto;
+}
+
+.gb-table{
+	width: 65%;
+	height: 35px;
+	margin: 15px auto;
+	padding: 1em;
+	border-collapse: separate;
+	border-spacing: 1em;
+}
+	.gb-header{
+		width: 96%;
+		padding: 0.1em 2%;
+		background: #fff;
+		display: block;
+		border-bottom: 1px solid #eee;
+	}
+	.gb-title{
+		display: inline-block;
+		font-size: 14pt;
+		font-weight: bold;
+	}
+	.gb-date{
+		display: inline-block;
+		font-size: 14pt;
+	}
+	
+	.gb-table td{
+		border: 1px solid #ddd;
+		background: #fff;
+		margin: 1em 0;
+		padding: 0;
+	}
+	
+	.gb-comment{
+		margin: 1em;
+	}
+	
+.gb-form{
+	width: 65%;
+	height: 35px;
+	margin: 15px auto;
+	padding: 1em;
+	border-collapse: separate;
+	border-spacing: 1em;
+	text-align: center;
+}
+	.gb-input{
+		width: 35%;
+		border-radius: 5px;
+		height: 35px;
+		font-size: 12pt;
+		border: 1px solid #ddd;
+		padding: 0;
+		margin: 0.2em 0;
+		background: #fff;
+		text-indent: 0.5em;
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+	}
+
+	.gb-input-area{
+		font-size: 12pt;
+		width: 35%;
+		height: 100px;
+		background: #fff;
+		border: 1px solid #ddd;
+		border-radius: 5px;
+		text-indent: 0.5em;
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+	}
+
+	.gb-input-button{
+		width: 25%;
+		height: 35px;
+		color: #FFF;
+		background: #09C;
+		border: 2px groove #0AF;
+		border-radius: 5px;
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+	}
+		.gb-input-button:hover{
+			background: #07A;
+		}
